@@ -44,8 +44,8 @@ Java-DS-Practice/
 ## Usage
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/Java-DS-Practice.git
-   cd Java-DS-Practice
+   git clone https://github.com/Arihantv58/Express_DSA.git
+   cd Express_DSA
    ```
 
 2. **Navigate to a Folder:**
