@@ -56,9 +56,9 @@ public class twoDArray {
         display(arr);
         // sortByRow(arr);
         // display(arr);
-        // sortByColumn(arr, 2);
+        sortByColumn(arr, 2);
         // display(arr);
-        completeSort(arr);
+        // completeSort(arr);
         display(arr);
     }
 }
