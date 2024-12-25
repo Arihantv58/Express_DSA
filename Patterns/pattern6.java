@@ -1,3 +1,4 @@
+package Patterns;
 public class pattern6 {
     //pattern to print butterfly pattern
     public static void main(String[] args) {

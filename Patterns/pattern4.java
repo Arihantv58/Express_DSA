@@ -1,3 +1,4 @@
+package Patterns;
 public class pattern4 {
     //program for printing sqaure pattern
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package Patterns;
 public class pattern8 {
     //pattern to print diamond pattern
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package Array;
 public class Presum {
 
     public static int[] presum(int[] arr)

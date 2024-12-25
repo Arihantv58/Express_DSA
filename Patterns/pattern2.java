@@ -1,3 +1,4 @@
+package Patterns;
 public class pattern2 {
     //pattern for right facing inverted triangle
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package Array;
 public class Rotate_array {
 
     public static void rotate(int[] arr, int k)

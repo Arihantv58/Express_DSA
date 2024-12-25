@@ -1,3 +1,4 @@
+package Patterns;
 public class pattern1 {
     //program for left facing triangle
     public static void main(String[] args) {

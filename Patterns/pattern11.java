@@ -1,3 +1,4 @@
+package Patterns;
 public class pattern11 {
     public static void main(String[] args) {
         int num=7;

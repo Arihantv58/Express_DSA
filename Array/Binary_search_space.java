@@ -1,3 +1,4 @@
+package Array;
 public class Binary_search_space {
 
     public static int help(int speed, int time)

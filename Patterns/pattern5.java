@@ -1,3 +1,4 @@
+package Patterns;
 public class pattern5 {
     //program to print cross-diagonal pattern
     public static void main(String[] args) {

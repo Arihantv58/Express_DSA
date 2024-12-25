@@ -1,3 +1,4 @@
+package Patterns;
 public class pattern7 {
     //program for printing pyramid pattern
     public static void main(String[] args) {
