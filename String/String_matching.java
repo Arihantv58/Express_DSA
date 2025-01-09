@@ -6,11 +6,11 @@ import java.util.*;
 public class String_matching {
     public static List<String> stringMatching(String[] words) {
         ArrayList<String> ans = new ArrayList<>();
-        int n = words.length;
+        int k = words.length;
 
-        for(int i=0; i<n; i++)
+        for(int i=0; i<k; i++)
         {
-            for(int j=0; j<n; j++)
+            for(int j=0; j<k; j++)
             {
                 if(i==j)
                     continue;
