@@ -31,7 +31,6 @@ public class twoDArray {
         int r =arr.length;
         int c= arr[0].length;
         int[] temp= new int[r*c];
-        int k;
         for(int i=0; i<r; i++)
         {
             for(int j=0; j<c; j++)

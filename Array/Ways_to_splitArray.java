@@ -30,5 +30,6 @@ public class Ways_to_splitArray {
             nums[i] = sc.nextInt();
         }
         System.out.println(waysToSplitArray(nums));
+        sc.close();
     }
 }

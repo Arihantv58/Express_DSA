@@ -1,5 +1,4 @@
 package String;
-import java.util.*;
 
 public class count_prefix_suffix {
     private static boolean isPrefixAndSuffix(String str1, String str2) {

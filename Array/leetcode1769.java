@@ -1,6 +1,7 @@
 package Array;
 import java.util.*;
-public class leetcode1769 {
+public class leetcode1769
+ {
     public static int[] minOperations(String boxes) {
         int n = boxes.length();
         int[] ans = new int[n];

@@ -1,4 +1,3 @@
-import java.util.Arrays;
 public class SearchTwoDArray {
 
     public static int[] linearSearch(int[][] arr, int key)
